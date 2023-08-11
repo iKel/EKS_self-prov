@@ -7,4 +7,4 @@ export CA=$(aws eks describe-cluster --name $CLUSTER_NAME --query "cluster.certi
 
 /etc/eks/bootstrap.sh $CLUSTER_NAME \
   --b64-cluster-ca $CA\
-  --apiserver-endpoint $ENDPOINT \
+  --apiserver-endpoint $ENDPOINT 
