@@ -1,6 +1,7 @@
 # EKS Cluster with self-managed node group  
 <div align="center">
-<img src="https://github.com/iKel/CI-CD/assets/3269728/87ce2757-b115-4269-b362-331628671a0b" align="center" height="300" width="1010" />
+<img src="https://github.com/iKel/EKS_self-prov/assets/3269728/e4125a60-827b-4419-ada8-8965b509bf17" align="center" height="300" width="1010" />
+
 </div>  
   
 ## 🚀 Getting Started  
